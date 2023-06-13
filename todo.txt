@@ -1,0 +1,4 @@
+1. agregar firebase a android
+2. firebase.initrializedapp() -> android and ios
+3. 
+4. 
